@@ -1,0 +1,11 @@
+p {
+    color:red;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+main>h1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
